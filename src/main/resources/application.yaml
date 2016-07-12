@@ -1,0 +1,10 @@
+spring:
+	profile: development
+db:
+	mongodb:
+		host:localhost
+		port:27107
+		username:zhanyun
+		password:zhanyun
+		database:zhanyun
+	
